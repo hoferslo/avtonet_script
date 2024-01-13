@@ -6,7 +6,6 @@
   "https://www.avto.net/Ads/search_category.asp?SID=30000",
   "https://www.avto.net/Ads/search_category.asp?SID=70000",
   "https://www.avto.net/Ads/results.asp?znamka=audi&cenaMin=100&cenaMax=5000&letnikMin=2008&letnikMax=2090&kmMin=0&kmMax=250000&kwMin=66&kwMax=999&EQ1=1000000000&EQ2=1000000000&EQ3=1000000000&EQ4=100000000&EQ5=1000000000&EQ6=1000000000&EQ7=1110100120&EQ8=101000000&EQ9=1000000020&KAT=1010000000&paketgarancije=0&zaloga=10&bencin=202#",
-  "https://www.avto.net/Ads/details.asp?id=19018970&display=Audi%20A3",
   "https://www.avto.net/Ads/results.asp?znamka=honda&cenaMin=100&cenaMax=5000&letnikMin=2004&letnikMax=2090&kmMin=0&kmMax=250000&kwMin=66&kwMax=999&EQ1=1000000000&EQ2=1000000000&EQ3=1000000000&EQ4=100000000&EQ5=1000000000&EQ6=1000000000&EQ7=1110100120&EQ8=101000000&EQ9=1000000020&KAT=1010000000&paketgarancije=0&zaloga=10&bencin=0#",
   "https://www.avto.net/Ads/details.asp?id=19144970&display=Honda%20Civic",
   "https://www.avto.net/Ads/details.asp?id=19139355&display=Honda%20Jazz",
@@ -42,5 +41,6 @@
   "https://www.avto.net/Ads/details.asp?id=19042088&display=Volkswagen%20Passat%20Variant",
   "https://www.avto.net/Ads/details.asp?id=19014836&display=Volkswagen%20Golf",
   "https://www.avto.net/Ads/details.asp?id=18757134&display=Volkswagen%20Golf%20Plus",
-  "https://www.avto.net/Ads/details.asp?id=18231544&display=Volkswagen%20Golf%20Variant"
+  "https://www.avto.net/Ads/details.asp?id=18231544&display=Volkswagen%20Golf%20Variant",
+  "https://www.avto.net/Ads/details.asp?id=19018970&display=Audi%20A3"
 ]

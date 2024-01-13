@@ -39,7 +39,7 @@ class Settings:
 # Function to be called when a new item is added to the JSON file
 def on_new_item_added(new_item):
     print(f"New item added: {new_item}")
-    #send_mail("casperkadivec@gmail.com ", "testsubject", "testmessage\n"+new_item)
+    send_mail("casperkadivec@gmail.com ", "testsubject", "testmessage\n"+new_item)
 
 
 # Create an instance of the Settings class with default values
